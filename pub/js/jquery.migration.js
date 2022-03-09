@@ -412,6 +412,9 @@
             }
 
             function scrollToErrorMessage(element){
+                if(element.length < 1){
+                    return false;
+                }
                 $(window).scrollTop( $('.message-valid', element).offset().top - $(window).height() + 50);
             }
 
@@ -531,12 +534,12 @@
                         if(result.next_type){
                             processBarAnimate(result.next_type, false);
                         }
-                        importEntity(result.next_type);
+                        delayImportEntity(result.next_type);
                     } else if(response.status == 'process'){
                         var result = response.data;
                         processBarResult(result.type, result.total, result.import, result.error, result.point);
                         processBarAnimate(result.type, false);
-                        importEntity(result.type);
+                        delayImportEntity(result.type);
                     } else {
                         processRetry(type);
                     }
@@ -544,6 +547,19 @@
                     consoleMessage('#import-wrap .console-box', getRetryMessage(true));
                     processRetry(type);
                 });
+            }
+
+            function delayImportEntity(type){
+                importEntity(type);
+                /*var time = parseFloat(settings.delay);
+                if(time > 0){
+                    var delay = time * 1000;
+                    setTimeout(function(){
+                        importEntity(type);
+                    }, delay);
+                } else {
+                    importEntity(type);
+                }*/
             }
 
             function processBarResult(entity, total, imported, error, point)

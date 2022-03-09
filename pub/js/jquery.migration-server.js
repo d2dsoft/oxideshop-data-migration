@@ -418,6 +418,9 @@
             }
 
             function scrollToErrorMessage(element){
+                if(element.length < 1){
+                    return false;
+                }
                 $(window).scrollTop( $('.message-valid', element).offset().top - $(window).height() + 50);
             }
 

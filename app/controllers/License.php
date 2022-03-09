@@ -11,7 +11,7 @@
  * DISCLAIMER
  * Do not edit or add to this file if you wish to upgrade this extension/plugin/module to newer version in the future.
  *
- * @author     D2dSoft Developers <develop@d2d-soft.com>
+ * @author     D2dSoft Developers <developer@d2d-soft.com>
  * @copyright  Copyright (c) 2021 D2dSoft (https://d2d-soft.com)
  * @license    https://d2d-soft.com/license/AFL.txt
  */
@@ -69,10 +69,7 @@ class App_Controller_License
      */
     protected function _downloadAndExtraLibrary($license = '')
     {
-        global $bootstrap;
-        $envConfig = $bootstrap->getConfig('env');
-        $site = $bootstrap->getArrayValue($envConfig, 'site', '');
-        $url = $site . '/download_package.php';
+        $url = 'https://d2d-soft.com/download_package.php';
         $tmp_path = _ROOT_DIR . '/pub/media/resources.zip';
         $data = array(
             'license' => $license
