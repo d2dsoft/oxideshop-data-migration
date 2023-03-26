@@ -8,6 +8,7 @@
 - [Drupal Commerce to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/363-drupal-commerce-to-oxid-eshop-migration-service.html)
 - [HikaShop to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/460-1897-hikashop-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [J2Store to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/503-2092-j2store-to-oxid-eshop-migration-tool.html#/72-entities-1000)
+- [JigoShop to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/549-2302-jigoshop-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [Loaded Commerce to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/176-797-loaded-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [Magento to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/177-802-magento-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [OpenCart to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/178-807-opencart-to-oxid-eshop-migration-tool.html#/72-entities-1000)
@@ -29,6 +30,7 @@
 - [Drupal Commerce](https://drupalcommerce.org/)
 - [HikaShop](https://www.hikashop.com/)
 - [J2Store](https://www.j2store.org/)
+- JigoShop
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - [OpenCart](https://www.opencart.com/)
