@@ -2,6 +2,7 @@
 [OXID-eShop Data Migration Tool](https://d2d-soft.com/24-oxid-eshop-migration) is a solution for migrating data to OXID-eShop from another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AmeriCommerce to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/776-7253-americommerce-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [BigCommerce to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/420-1702-bigcommerce-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [CS-Cart to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/334-1437-cs-cart-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [CubeCart to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/175-792-cubecart-to-oxid-eshop-migration-tool.html#/72-entities-1000)
@@ -17,6 +18,7 @@
 - [osCommerce to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/179-812-oscommerce-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/181-817-oxideshop-to-oxideshop-migration-tool.html#/72-entities-1000)
 - [PrestaShop to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/182-822-prestashop-to-oxid-eshop-migration-tool.html#/72-entities-1000)
+- [Salesforce to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/725-6803-salesforce-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [Shopify to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/383-1522-shopify-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [VirtueMart to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/183-827-virtuemart-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [Volusion to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/648-6000-volusion-to-oxid-eshop-migration-tool.html#/72-entities-1000)
@@ -28,6 +30,7 @@
 - [ZenCart to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/188-852-zencart-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 
 ## Supported Platforms
+- [AmeriCommerce](https://www.americommerce.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
@@ -43,6 +46,7 @@
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
+- [Salesforce](https://www.salesforce.com/)
 - [Shopify](https://www.shopify.com/)
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
