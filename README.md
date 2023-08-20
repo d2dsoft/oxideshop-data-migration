@@ -12,6 +12,7 @@
 - [J2Store to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/503-2092-j2store-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [JigoShop to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/549-2302-jigoshop-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [JoomShopping to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/599-2542-joomshopping-to-oxid-eshop-migration-tool.html#/72-entities-1000)
+- [LiteCart to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/884-8367-litecart-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [Loaded Commerce to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/176-797-loaded-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [Magento to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/177-802-magento-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [MarketPress to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/574-2422-marketpress-to-oxid-eshop-migration-tool.html#/72-entities-1000)
@@ -42,6 +43,7 @@
 - [J2Store](https://www.j2store.org/)
 - JigoShop
 - [JoomShopping](https://extensions.joomla.org/extension/joomshopping/)
+- [LiteCart](https://www.litecart.net/)
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - MarketPress
