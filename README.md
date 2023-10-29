@@ -3,6 +3,7 @@
 
 ## Products
 - [AmeriCommerce to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/776-7253-americommerce-to-oxid-eshop-migration-tool.html#/72-entities-1000)
+- [Bagisto to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/943-8962-bagisto-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [BigCommerce to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/420-1702-bigcommerce-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [CS-Cart to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/334-1437-cs-cart-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [CubeCart to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/175-792-cubecart-to-oxid-eshop-migration-tool.html#/72-entities-1000)
@@ -34,6 +35,7 @@
 
 ## Supported Platforms
 - [AmeriCommerce](https://www.americommerce.com/)
+- [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
