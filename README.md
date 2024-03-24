@@ -20,6 +20,7 @@
 - [Magento to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/177-802-magento-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [MarketPress to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/574-2422-marketpress-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [OpenCart to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/178-807-opencart-to-oxid-eshop-migration-tool.html#/72-entities-1000)
+- [osCMax to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/1197-11551-oscmax-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [osCommerce to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/179-812-oscommerce-to-oxid-eshop-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/181-817-oxideshop-to-oxideshop-migration-tool.html#/72-entities-1000)
 - [PrestaShop to OXID-eShop Migration](https://d2d-soft.com/oxid-eshop-migration/182-822-prestashop-to-oxid-eshop-migration-tool.html#/72-entities-1000)
@@ -55,6 +56,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
